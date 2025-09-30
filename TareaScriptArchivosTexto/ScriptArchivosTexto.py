@@ -17,6 +17,7 @@ with open("my_notes.txt", "w") as archivo:
     archivo.write("Nota 1: Recordar comprar frutas.\n")
     archivo.write("Nota 2: Estudiar Python todos los días.\n")
     archivo.write("Nota 3: Hacer ejercicio por la mañana.\n")
+    archivo.write("Nota 4: No olvidar retirar la ropa de la lavandería. \n")
 
 # ============================
 # Lectura de Archivo de Texto

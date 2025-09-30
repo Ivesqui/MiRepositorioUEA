@@ -1,3 +1,4 @@
 Nota 1: Recordar comprar frutas.
 Nota 2: Estudiar Python todos los días.
 Nota 3: Hacer ejercicio por la mañana.
+Nota 4: No olvidar retirar la ropa de la lavandería. 
